@@ -706,7 +706,7 @@ of.options.RENDER_REGIONS.tooltip.1=Pag-Render ng Mga Rehiyon
 of.options.RENDER_REGIONS.tooltip.2= NAKAPATAY - pag-render gamit ang vanilla (panimula)
 of.options.RENDER_REGIONS.tooltip.3= NAKAANDAR - gumamit ng pag-render ng rehiyon (mas mabilis)
 of.options.RENDER_REGIONS.tooltip.4=Nagbibigay-daan sa mas mabilis na pag-render ng lupain sa pamamagitan
-of.options.RENDER_REGIONS.tooltip.5=ng pagpapahusay sa nakatambak na GPU. Mas epektibo sa mas mataas na distansya ng pag-render.
+of.options.RENDER_REGIONS.tooltip.5=ng pagpapahusay sa bigat ng GPU. Mas epektibo sa mas mataas na distansya ng pag-render.
 of.options.RENDER_REGIONS.tooltip.6=Hindi inirerekomenda para sa pinagsamang mga graphics card.
 
 of.options.SMART_ANIMATIONS=Matalinong Animasyon
