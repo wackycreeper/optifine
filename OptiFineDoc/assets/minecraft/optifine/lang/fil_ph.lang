@@ -663,7 +663,7 @@ of.options.SMOOTH_WORLD.tooltip.5=Epektibo lamang para sa mga lokal na mundo (pa
 
 of.options.FAST_RENDER=Mabilisang Pag-render
 of.options.FAST_RENDER.tooltip.1=Mabilisang Pag-render
-of.options.FAST_RENDER.tooltip.2= NAKAPATAY - karaniwang pag-render (default)
+of.options.FAST_RENDER.tooltip.2= NAKAPATAY - karaniwang pag-render (panimula)
 of.options.FAST_RENDER.tooltip.3= NAKAANDAR - pinahusay na pag-render (mas mabilis)
 of.options.FAST_RENDER.tooltip.4=Gumagamit ng optimisadong algoritmo sa pag-render na nagpapababa
 of.options.FAST_RENDER.tooltip.5=ng bigat sa CPU at maaaring tumaas nang malaki sa FPS.
